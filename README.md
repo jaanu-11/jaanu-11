@@ -1,6 +1,6 @@
 # 👩‍💻 **Swathi Vishwakarma**
 
-      🎓 **Robotics Engineer** | 🏅 **University Rank Holder**
+  🎓 **Robotics Engineer** | 🏅 **University Rank Holder**
 
 ---
 
