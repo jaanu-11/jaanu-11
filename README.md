@@ -1,7 +1,11 @@
 # 👋 Hi there, I'm Swathi! 🚀
 
-🎓 **Robotics Engineer | Embedded Systems Enthusiast | University Rank Holder**  
-🤖 **Specialized in AGVs & AMRs | ROS/ROS2 Developer**
+🎓 **Robotics Engineer**\
+🔧 **Embedded Systems Enthusiast**\
+🏅 **University Rank Holder**
+
+🤖 **Specialized in AGVs & AMRs**\
+🛠️ **ROS/ROS2 Developer**
 
 ---
 
@@ -35,14 +39,14 @@
 - 🏠 **Home Automation** – Certified by PROROBO
 - 📊 **ISO-9001:2015 Certified** – Machine Learning, Artificial Intelligence, IoT by Itronix Solutions
 - ☀️ **Short-term Course** – Learn to Design Your Own Solar Home System by Energy Swaraj Foundation
-- 🔌 **International Webinar Participant** – Arduino@home: Hands-on Learning of Electronics and Programming
+- 🔌 **International Webinar Participant** – Arduino\@home: Hands-on Learning of Electronics and Programming
 
 ---
 
 ## 🎯 **Interests**
 
 - 📘 **Non-fiction Books**
-- 🎵 **Playing Harmonica**
+- 🎵 **Playing Harmonica, Flute, Guitar**
 - 💡 **Exploring New Technologies**
 - 🌟 **Motivating & Mentoring Peers**
 - 📝 **Course Reviewing & Knowledge Sharing**
@@ -52,7 +56,7 @@
 ## 🤝 **Let’s Connect!**
 
 - 📂 [GitHub](https://github.com/jaanu-11)
-- 📧 *Email: [your.email@example.com]*
+- 📧 *Email: [****[your.email@example.com](mailto\:your.email@example.com)****\*\*\*\*]*
 
 ---
 
