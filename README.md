@@ -12,7 +12,6 @@
 
 - **Programming Languages:** Python, C, Embedded C
 - **Robotics Frameworks:** ROS, ROS2, AMR Navigation
-- **Technologies & Tools:** YOLOv8, GCP (Cloud Function), Image Segmentation
 - **Others:** Version Control, Embedded Systems
 
 ---
