@@ -3,29 +3,29 @@
 
 ---
 
-🧑‍💻 **Passionate Robotics Engineer & AI/ML Enthusiast**
+🧑‍💻 **Passionate Embedded Engineer & Robotics Innovator**
 
-I'm an Embedded Engineer driven by innovation in AGVs and AMRs, blending theoretical knowledge with hands-on experience. I aim to create efficient, intelligent autonomous systems while also sharing my passion through teaching.
+I'm an Embedded Engineer with a keen interest in developing **AGVs** and **AMRs** using **ROS/ROS2** and **Micro ROS**. My expertise spans **Embedded Systems**, **Autonomous Robotics**, and **AI-driven control systems**. I’m dedicated to bridging the gap between theoretical knowledge and real-world applications.
 
-- 🌍 I'm based in **Hyderabad, India**  
-- 💻 Check out my portfolio at [My_Portfolio](#)  
+- 🌍 Based in **Hyderabad, India**  
+- 💡 Currently preparing for **GATE (ECE)** & interviews at **Woxsen University**  
+- 🚀 Working on **Mobile Robotics**, **AI/ML**, and **Autonomous Systems**  
+- 🤝 Open to collaborating on **ROS/ROS2**, **Micro ROS**, **Embedded C**, and **AI-driven Robotics**  
 - ✉️ Reach me at [Mail](mailto:your-email@gmail.com)  
-- 🚀 Currently working on **Mobile Robotics & GATE ECE prep**  
-- 🧠 Exploring **AI/ML** & Robotics Algorithms  
-- 🤝 Open to collaborations on **ROS/ROS2**, **AGVs/AMRs**, and **AI-Driven Robotics**
 
 ---
 
 ### 🛠️ **Languages and Tools**
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Embedded C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ROS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ROS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original-wordmark.svg" alt="ROS2" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/micro-ROS/micro-ROS.github.io/master/img/micro-ros-logo.png" alt="Micro ROS" width="40" height="40"/>
 </p>
 
 ---
@@ -33,8 +33,8 @@ I'm an Embedded Engineer driven by innovation in AGVs and AMRs, blending theoret
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaanu-11&show_icons=true&theme=radical" alt="Swathi's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaanu-11&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -47,7 +47,7 @@ I'm an Embedded Engineer driven by innovation in AGVs and AMRs, blending theoret
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/jaanu-11" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
