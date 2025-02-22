@@ -12,9 +12,6 @@
 
 - 🏅 **23rd State Rank** – Masters of Electronics Entrance Exam
 - 🏆 **Guinness World Record Participant** – in collaboration with Guvi
-- 🥇 **Special Category Award** – Smart India Hackathon 2022
-- 🥈 **2nd Prize** – Ideathon 2022
-- 🤖 **Winner** – Technoxian Robot Competition 2019
 - 📖 **80+ Webinars Attended** – National & International
 
 ## 📁 **Featured Projects**
