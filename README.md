@@ -11,7 +11,7 @@ I'm an Embedded Engineer with a keen interest in developing **AGVs** and **AMRs*
 - 💡 Currently preparing for **GATE (ECE)** & interviews at **Woxsen University**  
 - 🚀 Working on **Mobile Robotics**, **AI/ML**, and **Autonomous Systems**  
 - 🤝 Open to collaborating on **ROS/ROS2**, **Micro ROS**, **Embedded C**, and **AI-driven Robotics**  
-- ✉️ Reach me at [Mail](mailto:your-email@gmail.com)  
+- ✉️ Reach me at: **your-email@gmail.com**  
 
 ---
 
@@ -30,27 +30,10 @@ I'm an Embedded Engineer with a keen interest in developing **AGVs** and **AMRs*
 
 ---
 
-### 📊 **GitHub Stats**
+### 💬 **Let's Collaborate!**  
+Interested in **robotics**, **embedded systems**, or **AI/ML**? Let's build something great together! 🚀  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaanu-11&show_icons=true&theme=radical" alt="Swathi's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaanu-11&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 📫 **Let's Connect!**
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/jaanu-11" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+📧 Drop me an email at: **your-email@gmail.com**  
 
 ---
 
