@@ -1,11 +1,10 @@
-# 👋 Hi there, I'm Swathi! 🚀
+# 👩‍💻 **Swathi Vishwakarma**
 
-🎓 **Robotics Engineer**\
-🔧 **Embedded Systems Enthusiast**\
-🏅 **University Rank Holder**
+         🎓 **Robotics Engineer** | 🏅 **University Rank Holder**
 
-🤖 **Specialized in AGVs & AMRs**\
-🛠️ **ROS/ROS2 Developer**
+---
+
+💡 I love exploring electronics, robotics, and innovative technologies. My passion lies in creating smart solutions that blend creativity with functionality, bringing ideas to life through automation and intelligent systems.
 
 ---
 
@@ -13,6 +12,7 @@
 
 - **Programming Languages:** Python, C, Embedded C
 - **Robotics Frameworks:** ROS, ROS2, AMR Navigation
+- **Technologies & Tools:** YOLOv8, GCP (Cloud Function), Image Segmentation
 - **Others:** Version Control, Embedded Systems
 
 ---
@@ -21,13 +21,20 @@
 
 - 🏅 **23rd State Rank** – Masters of Electronics Entrance Exam
 - 🏆 **Guinness World Record Participant** – in collaboration with Guvi
+- 🥇 **Special Category Award** – Smart India Hackathon 2022
+- 🥈 **2nd Prize** – Ideathon 2022
+- 🤖 **Winner** – Technoxian Robot Competition 2019
 - 📖 **80+ Webinars Attended** – National & International
 
 ---
 
 ## 📁 **Featured Projects**
 
-- 🦾 **Autonomous Mobile Robot (AMR) Navigation** – Implemented using ROS2 with obstacle avoidance and path planning.
+- 🚗 **Autonomous Guided Vehicle (AGV)** – Designed for efficient material handling and autonomous navigation.
+- 🌾 **Smart Irrigation System** – IoT-based automated solution for optimized water management.
+- 🤖 **Cave and Bomb Detection Robot** – Engineered for hazardous environment exploration and threat detection.
+- 🦿 **Robotic Arm** – Built for precision tasks and industrial automation.
+- 🦾 **Autonomous Mobile Robot (AMR) Navigation** – Developed using ROS2 with obstacle avoidance and optimized path planning.
 
 ---
 
@@ -56,7 +63,7 @@
 ## 🤝 **Let’s Connect!**
 
 - 📂 [GitHub](https://github.com/jaanu-11)
-- 📧 *Email: [****[your.email@example.com](mailto\:your.email@example.com)****\*\*\*\*]*
+- 📧 *Email: [****[your.email@example.com](mailto\:your.email@example.com)****\*\*\*\*\*\*]*
 
 ---
 
