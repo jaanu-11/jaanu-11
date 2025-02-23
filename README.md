@@ -67,7 +67,7 @@ The **Automated Guided Vehicle (AGV)** is a self-navigating robotic system desig
 ### 🖥️ **Prerequisites**  
 Ensure you have **ROS2** installed on your Raspberry Pi:  
 ```bash
-sudo apt update && sudo apt install -y ros-foxy-desktop
+sudo apt update 
 ```
 
 ### 📦 **Building the ROS2 Package**  
@@ -79,30 +79,6 @@ source install/setup.bash
 ### ▶ **Running the AGV**  
 Launch the AGV with:  
 ```bash
-
----
-
-## 📂 Project Structure  
-```
-AGV_Project/
-│-- src/
-│   │-- agv_control/
-│   │   │-- src/
-│   │   │   ├── main.cpp  # ROS2 Node for AGV control
-│   │   │   ├── sensors.cpp  # Sensor handling
-│   │   │   ├── motor.cpp  # Motor control
-│   │   │-- CMakeLists.txt
-│   │   │-- package.xml
-│   │-- agv_navigation/
-│   │   │-- launch/
-│   │   │   ├── agv_launch.py
-│   │   │-- config/
-│   │   │   ├── params.yaml
-│-- README.md
-│-- setup.py
-│-- colcon.pkg
-```
-
 ---
 
 ## 🔧 Usage  
