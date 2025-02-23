@@ -77,10 +77,8 @@ source install/setup.bash
 ```
 
 ### ▶ **Running the AGV**  
-Launch the AGV with:  
-```bash
----
-
+Launch the AGV 
+  
 ## 🔧 Usage  
 - **To control AGV manually:**  
   ```bash
