@@ -6,13 +6,13 @@ The **Automated Guided Vehicle (AGV)** is a self-navigating robotic system desig
 ---
 
 ## 🌟 Features  
- -**Autonomous Navigation** – Uses IR, LiDAR, or camera-based path following.  
- -**Obstacle Avoidance** – Equipped with ultrasonic and LiDAR sensors.  
- -**Wireless Control** – Remote operation via Wi-Fi, Bluetooth, or IoT.  
- -**Load Handling** – Can carry and transport materials.  
- -**Real-time Monitoring** – Data transmission to a dashboard for live tracking.  
- -**Power Management** – Smart battery management for efficient power consumption.  
- -**Multiple AGV Coordination** – Can work in fleets with collision avoidance.  
+ - **Autonomous Navigation** – Uses IR, LiDAR, or camera-based path following.  
+ - **Obstacle Avoidance** – Equipped with ultrasonic and LiDAR sensors.  
+ - **Wireless Control** – Remote operation via Wi-Fi, Bluetooth, or IoT.  
+ - **Load Handling** – Can carry and transport materials.  
+ - **Real-time Monitoring** – Data transmission to a dashboard for live tracking.  
+ - **Power Management** – Smart battery management for efficient power consumption.  
+ - **Multiple AGV Coordination** – Can work in fleets with collision avoidance.  
 
 ---
 
